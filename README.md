@@ -15,10 +15,20 @@
 
 - 💬 Ask me about any thing you want.
 - 🌱 I'm currently focusing on expanding my skills in React, TypeScript, and Open Source development.
-- 🤝 I'm also dedicated to building my professional network and actively seeking co-op opportunities.
+- 🤝 I'm also dedicated to building my professional network and actively seeking Co-op opportunities.
 - 🥅 2023 Goals: Contribute more to Open Source projects & Build my Connections and to get Co-op
 - ⚡️ Fun fact: I have a passion for both coding and gaming.
 - 👯 Let's connect! I'm eager to collaborate on exciting projects and learn from others in the tech community.
+
+<p align="left" height="25">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=AmiraliEsi83&label=Visitors+Count&color=1DA1F2"  alt="amiraliesi83" height="25" width="150" />
+   <a href="https://twitter.com/AmirAli_Esi">
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/amiraliesi83?color=1DA1F2&label=Follow&logo=twitter&logoColor=white&style=for-the-badge" height="25" width="150"/>
+    </a>
+  <a href="https://github.com/AmiraliEsi83"><img src="https://img.shields.io/github/followers/AmiraliEsi83?label=Followers&logo=github&Follow&style=for-the-badge" height="25" width="150" alt="amiraliesi83"/></a>
+  <br>
+</p>
 
 
 
@@ -58,18 +68,21 @@
 
 ### Frameworks & Tools: 
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="Xcode" width="26px" src="https://raw.githubusercontent.com/github/explore/530398b5c9b0fd57127e2564bd664575f02f52e4/topics/xcode/xcode.png" />
-
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/ecafd74ee977bc5f312cb476f3ba8054ce232f0e/topics/angular/angular.png" />
-
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/react/react.png" />
 
 [<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />](https://www.mongodb.com)
 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />](https://nodejs.org)
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img align="left" alt="Xcode" width="26px" src="https://raw.githubusercontent.com/github/explore/530398b5c9b0fd57127e2564bd664575f02f52e4/topics/xcode/xcode.png" />
+
+[<img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/anaconda.svg" />](https://www.anaconda.com)
 
 
 [twitter]: https://twitter.com/AmirAli_Esi
