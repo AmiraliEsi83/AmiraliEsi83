@@ -36,40 +36,40 @@
 
 ### Languages:
 
-
-
-<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
-
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/ecafd74ee977bc5f312cb476f3ba8054ce232f0e/topics/sql/sql.png" />
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/react/react.png" />
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/ecafd74ee977bc5f312cb476f3ba8054ce232f0e/topics/typescript/typescript.png" />
 
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/ecafd74ee977bc5f312cb476f3ba8054ce232f0e/topics/angular/angular.png" />
 
 <img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/ecafd74ee977bc5f312cb476f3ba8054ce232f0e/topics/rust/rust.png" />
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/ecafd74ee977bc5f312cb476f3ba8054ce232f0e/topics/javascript/javascript.png" />
 
+<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
+
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/ecafd74ee977bc5f312cb476f3ba8054ce232f0e/topics/css/css.png" />
 
 <br />
 
-### Tools: 
+### Frameworks & Tools: 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="Xcode" width="26px" src="https://raw.githubusercontent.com/github/explore/530398b5c9b0fd57127e2564bd664575f02f52e4/topics/xcode/xcode.png" />
 
+<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/ecafd74ee977bc5f312cb476f3ba8054ce232f0e/topics/angular/angular.png" />
 
 
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/react/react.png" />
 
+[<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />](https://www.mongodb.com)
 
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />](https://nodejs.org)
 
 
 [twitter]: https://twitter.com/AmirAli_Esi
