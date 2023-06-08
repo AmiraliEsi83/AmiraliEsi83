@@ -1,11 +1,8 @@
-<div align="center">
-  <img src="IMG_5806.jpeg" align="center"/>
-</div>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AmirAli_Esi?style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 <br>
 <div align="center">
-  <img src="https://i.ibb.co/1GwbN8c/GAUTAM-JAIN-1.png" align="center"/>
+  <img src="IMG_5806.jpeg" align="center"/>
 </div>
 <p align="center">
   <b><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&color=00A8FF&size=30&center=true&vCenter=true&lines=Hi+there%2C+I'm+Amir."></b>
