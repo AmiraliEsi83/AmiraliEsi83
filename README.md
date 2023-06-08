@@ -9,7 +9,9 @@
 </div>
 
 
-## I'm a Second-year Computer Science student at Ryerson University(TMU)!!
+## I'm a Second-year Computer Science student at Ryerson University!!  <b><img src="tmu-logo-social-media.jpg" width="36px" alt="TMU logo"></b>
+ 
+
 
 - 💬 Ask me about any thing you want.
 - 🌱 I'm currently focusing on expanding my skills in React, TypeScript, and Open Source development.
