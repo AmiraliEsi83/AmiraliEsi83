@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/AmirAli_Esi?style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=AmirAli_Esi)
 <br>
 <div align="center">
-  <img src="IMG_3525.jpg" align="center"/>
+  <img src"" align="center"/>
 </div>
 
 
