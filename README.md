@@ -9,7 +9,7 @@
 </div>
 
 
-## I'm a Second-year Computer Science student at [Ryerson University](https://www.torontomu.ca)!!  <b><img src="tmu-logo-social-media.jpg" width="36px" alt="TMU logo"></b>
+## I'm a Third-year Computer Science student at [Ryerson University](https://www.torontomu.ca)!!  <b><img src="tmu-logo-social-media.jpg" width="36px" alt="TMU logo"></b>
  
 
 
