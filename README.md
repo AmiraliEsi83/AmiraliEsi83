@@ -16,7 +16,7 @@
 - 💬 Ask me about any thing you want.
 - 🌱 I'm currently focusing on expanding my skills in React, TypeScript, and Open Source development.
 - 🤝 I'm also dedicated to building my professional network and actively seeking Co-op opportunities.
-- 🥅 2023 Goals: Contribute more to Open Source projects & Build my Connections and to get Co-op
+- 🥅 2023 Goals: Contribute more to Open Source projects & Build my Connections and to get Co-op[Done]
 - ⚡️ Fun fact: I have a passion for both coding and gaming.
 - 👯 Let's connect! I'm eager to collaborate on exciting projects and learn from others in the tech community.
 
